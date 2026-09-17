@@ -8,7 +8,8 @@
       "parentId": null,
       "tags": [],
       "createdAt": 1789610173696,
-      "modifiedAt": 1789610181776
+      "modifiedAt": 1789610215171,
+      "color": "#22c55e"
     },
     "dd701b47-9ddc-41d6-be70-ec5c65fd436d": {
       "id": "dd701b47-9ddc-41d6-be70-ec5c65fd436d",
@@ -26,7 +27,8 @@
       "parentId": null,
       "tags": [],
       "createdAt": 1789610173708,
-      "modifiedAt": 1789610184173
+      "modifiedAt": 1789610203896,
+      "color": "#ef4444"
     },
     "a21d51b4-908a-493a-9544-6b2f54945940": {
       "id": "a21d51b4-908a-493a-9544-6b2f54945940",
@@ -35,7 +37,8 @@
       "parentId": null,
       "tags": [],
       "createdAt": 1789610173711,
-      "modifiedAt": 1789610185907
+      "modifiedAt": 1789610218183,
+      "color": "#3b82f6"
     },
     "05cdbd67-3ac0-40e6-9d54-947cca34c54b": {
       "id": "05cdbd67-3ac0-40e6-9d54-947cca34c54b",
