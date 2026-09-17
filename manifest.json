@@ -1,6 +1,102 @@
 {
   "version": 3,
-  "nodes": {},
+  "nodes": {
+    "665ee899-effa-40c4-82f2-828d24366f35": {
+      "id": "665ee899-effa-40c4-82f2-828d24366f35",
+      "name": "GENG-1101",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789610173696,
+      "modifiedAt": 1789610181776
+    },
+    "dd701b47-9ddc-41d6-be70-ec5c65fd436d": {
+      "id": "dd701b47-9ddc-41d6-be70-ec5c65fd436d",
+      "name": "GENG-1102",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789610173704,
+      "modifiedAt": 1789610183048
+    },
+    "9b1cdada-2d04-4713-b09e-86ba372d6e02": {
+      "id": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
+      "name": "MATH-1270",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789610173708,
+      "modifiedAt": 1789610184173
+    },
+    "a21d51b4-908a-493a-9544-6b2f54945940": {
+      "id": "a21d51b4-908a-493a-9544-6b2f54945940",
+      "name": "PHYS-1400",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789610173711,
+      "modifiedAt": 1789610185907
+    },
+    "05cdbd67-3ac0-40e6-9d54-947cca34c54b": {
+      "id": "05cdbd67-3ac0-40e6-9d54-947cca34c54b",
+      "name": "Week 1",
+      "type": "folder",
+      "parentId": "a21d51b4-908a-493a-9544-6b2f54945940",
+      "tags": [],
+      "createdAt": 1789610173714,
+      "modifiedAt": 1789610173714
+    },
+    "29e81d59-406a-44c8-bc43-cc24fa9cb137": {
+      "id": "29e81d59-406a-44c8-bc43-cc24fa9cb137",
+      "name": "Week 1",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "665ee899-effa-40c4-82f2-828d24366f35",
+      "tags": [],
+      "createdAt": 1789610173719,
+      "modifiedAt": 1789610189554
+    },
+    "c9f5d01d-f14b-462c-a092-f34175e375c7": {
+      "id": "c9f5d01d-f14b-462c-a092-f34175e375c7",
+      "name": "Physics Primer",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "05cdbd67-3ac0-40e6-9d54-947cca34c54b",
+      "tags": [],
+      "createdAt": 1789610173735,
+      "modifiedAt": 1789610189554
+    },
+    "544a7f47-a308-4e97-9769-829e821d74cc": {
+      "id": "544a7f47-a308-4e97-9769-829e821d74cc",
+      "name": "Week 1",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
+      "tags": [],
+      "createdAt": 1789610173799,
+      "modifiedAt": 1789610189554
+    },
+    "30ed4335-3074-4ea8-83f4-c8db9316d2d0": {
+      "id": "30ed4335-3074-4ea8-83f4-c8db9316d2d0",
+      "name": "Intro",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
+      "tags": [],
+      "createdAt": 1789610173818,
+      "modifiedAt": 1789610189554
+    },
+    "896815ac-6ba6-4cbc-a365-6203ca4957e6": {
+      "id": "896815ac-6ba6-4cbc-a365-6203ca4957e6",
+      "name": "Week 1",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "dd701b47-9ddc-41d6-be70-ec5c65fd436d",
+      "tags": [],
+      "createdAt": 1789610173830,
+      "modifiedAt": 1789610189554
+    }
+  },
   "linksBySource": {},
   "colors": {
     "pen": [],
