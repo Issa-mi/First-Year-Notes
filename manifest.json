@@ -77,7 +77,7 @@
       "parentId": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
       "tags": [],
       "createdAt": 1789610173799,
-      "modifiedAt": 1789689439091
+      "modifiedAt": 1790039668100
     },
     "30ed4335-3074-4ea8-83f4-c8db9316d2d0": {
       "id": "30ed4335-3074-4ea8-83f4-c8db9316d2d0",
@@ -242,6 +242,25 @@
         "sourceRevision": "c8cfbd1f1fa3e988c090a9220ed284e8b5577956e64c2c29d20f3e20343bfec7",
         "capturedAt": 1789689110669,
         "byteLength": 14230666
+      }
+    },
+    "f4c24a0d-d461-44e0-80c9-453e4bfc5103": {
+      "id": "f4c24a0d-d461-44e0-80c9-453e4bfc5103",
+      "name": "Week 1 2026-09-22T01:14:17.779Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1790039657861,
+      "modifiedAt": 1790039668100,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "ad4c657dc0b0eb44c4028abb31fe41dbf7b9b82c900d64174ce8c16fe3ba52f6",
+        "capturedAt": 1790039657779,
+        "byteLength": 14732778
       }
     }
   },
