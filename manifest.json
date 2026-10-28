@@ -329,6 +329,25 @@
         "capturedAt": 1793151503302,
         "byteLength": 428150
       }
+    },
+    "b48565f6-8fb7-4095-b2a3-b88bbe0e0908": {
+      "id": "b48565f6-8fb7-4095-b2a3-b88bbe0e0908",
+      "name": "Week 1 2026-10-28T01:39:46.066Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793151586185,
+      "modifiedAt": 1793151586364,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "2e8af4f398157838200265e243c54a1c9fe02edde76e3941b75d8a82a15dc5d8",
+        "capturedAt": 1793151586066,
+        "byteLength": 14734920
+      }
     }
   },
   "linksBySource": {},
