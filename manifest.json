@@ -271,7 +271,7 @@
       "parentId": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
       "tags": [],
       "createdAt": 1793149638021,
-      "modifiedAt": 1793154938090
+      "modifiedAt": 1793158462120
     },
     "115afb01-6205-438c-a761-0a03c3c828c8": {
       "id": "115afb01-6205-438c-a761-0a03c3c828c8",
@@ -423,6 +423,25 @@
         "sourceRevision": "40bb843bdc043fcda4cd1c0488c706b07ea81b9d41883d6841a154d1828129bf",
         "capturedAt": 1793154572302,
         "byteLength": 1237525
+      }
+    },
+    "3e43d100-3289-4535-86a9-48c4c3214a97": {
+      "id": "3e43d100-3289-4535-86a9-48c4c3214a97",
+      "name": "Week 1 practice 2026-10-28T03:34:05.715Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793158445766,
+      "modifiedAt": 1793158462120,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "b8560e117b3dac3ca0d7486ad0ec2c6aaad5c87af1bc491cc88cec55df924b02",
+        "capturedAt": 1793158445715,
+        "byteLength": 1469149
       }
     }
   },
