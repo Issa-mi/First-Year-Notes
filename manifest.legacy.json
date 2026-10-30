@@ -1,0 +1,457 @@
+{
+  "version": 3,
+  "nodes": {
+    "665ee899-effa-40c4-82f2-828d24366f35": {
+      "id": "665ee899-effa-40c4-82f2-828d24366f35",
+      "name": "GENG-1101",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789610173696,
+      "modifiedAt": 1789610215171,
+      "color": "#22c55e"
+    },
+    "dd701b47-9ddc-41d6-be70-ec5c65fd436d": {
+      "id": "dd701b47-9ddc-41d6-be70-ec5c65fd436d",
+      "name": "GENG-1102",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789610173704,
+      "modifiedAt": 1789610183048
+    },
+    "9b1cdada-2d04-4713-b09e-86ba372d6e02": {
+      "id": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
+      "name": "MATH-1270",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789610173708,
+      "modifiedAt": 1789610203896,
+      "color": "#ef4444"
+    },
+    "a21d51b4-908a-493a-9544-6b2f54945940": {
+      "id": "a21d51b4-908a-493a-9544-6b2f54945940",
+      "name": "PHYS-1400",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789610173711,
+      "modifiedAt": 1789610218183,
+      "color": "#3b82f6"
+    },
+    "05cdbd67-3ac0-40e6-9d54-947cca34c54b": {
+      "id": "05cdbd67-3ac0-40e6-9d54-947cca34c54b",
+      "name": "Week 1",
+      "type": "folder",
+      "parentId": "a21d51b4-908a-493a-9544-6b2f54945940",
+      "tags": [],
+      "createdAt": 1789610173714,
+      "modifiedAt": 1789610173714
+    },
+    "29e81d59-406a-44c8-bc43-cc24fa9cb137": {
+      "id": "29e81d59-406a-44c8-bc43-cc24fa9cb137",
+      "name": "Week 1",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "665ee899-effa-40c4-82f2-828d24366f35",
+      "tags": [],
+      "createdAt": 1789610173719,
+      "modifiedAt": 1789610189554
+    },
+    "c9f5d01d-f14b-462c-a092-f34175e375c7": {
+      "id": "c9f5d01d-f14b-462c-a092-f34175e375c7",
+      "name": "Physics Primer",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "05cdbd67-3ac0-40e6-9d54-947cca34c54b",
+      "tags": [],
+      "createdAt": 1789610173735,
+      "modifiedAt": 1789610189554
+    },
+    "544a7f47-a308-4e97-9769-829e821d74cc": {
+      "id": "544a7f47-a308-4e97-9769-829e821d74cc",
+      "name": "Week 1",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
+      "tags": [],
+      "createdAt": 1789610173799,
+      "modifiedAt": 1793151611935
+    },
+    "30ed4335-3074-4ea8-83f4-c8db9316d2d0": {
+      "id": "30ed4335-3074-4ea8-83f4-c8db9316d2d0",
+      "name": "Intro",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
+      "tags": [],
+      "createdAt": 1789610173818,
+      "modifiedAt": 1789610189554
+    },
+    "896815ac-6ba6-4cbc-a365-6203ca4957e6": {
+      "id": "896815ac-6ba6-4cbc-a365-6203ca4957e6",
+      "name": "Week 1",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "dd701b47-9ddc-41d6-be70-ec5c65fd436d",
+      "tags": [],
+      "createdAt": 1789610173830,
+      "modifiedAt": 1789610189554
+    },
+    "ab1639cf-6f08-4935-a9b9-7ed437b4a766": {
+      "id": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "name": ".myelin-version-history",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789682145296,
+      "modifiedAt": 1789682145296,
+      "system": {
+        "kind": "version-history-root"
+      }
+    },
+    "3969d43e-b86e-4c7d-8ed2-c9b13b500a69": {
+      "id": "3969d43e-b86e-4c7d-8ed2-c9b13b500a69",
+      "name": "Week 1 2026-09-17T21:55:45.270Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1789682145416,
+      "modifiedAt": 1789682298945,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "d1f46520f0a669f0491674a33bbe724b193fdf11db46a38fe91e42cc311ef871",
+        "capturedAt": 1789682145270,
+        "byteLength": 12555254
+      }
+    },
+    "f18ae1ec-b325-456b-b19d-77d954e7270e": {
+      "id": "f18ae1ec-b325-456b-b19d-77d954e7270e",
+      "name": "Week 1 2026-09-17T22:17:16.398Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1789683436460,
+      "modifiedAt": 1789683496063,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "1575d77e5ca2c34a9ec93d41d1a00cf6c437158b7be7977b5f2e78d9fff4078e",
+        "capturedAt": 1789683436398,
+        "byteLength": 12697328
+      }
+    },
+    "7b5e97a4-ba7d-4d29-9b87-ac6a1a7169c0": {
+      "id": "7b5e97a4-ba7d-4d29-9b87-ac6a1a7169c0",
+      "name": "Week 1 2026-09-17T22:29:38.378Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1789684178439,
+      "modifiedAt": 1789684393161,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "c569d7baaac3ffd0706648af4d6b1c253bd7c34ae8413be427c62cd64d451b0f",
+        "capturedAt": 1789684178378,
+        "byteLength": 12968694
+      }
+    },
+    "774d0b89-f106-47f1-a768-a6fbe506592e": {
+      "id": "774d0b89-f106-47f1-a768-a6fbe506592e",
+      "name": "Week 1 2026-09-17T23:03:29.199Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1789686209255,
+      "modifiedAt": 1789686259175,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "1c736a3d363e80e9a1fea27021dda7cb81f7f011a301b06cd6138d6b268537d1",
+        "capturedAt": 1789686209199,
+        "byteLength": 13584158
+      }
+    },
+    "3b75847e-5ea1-4b73-9e90-7f45e1102e39": {
+      "id": "3b75847e-5ea1-4b73-9e90-7f45e1102e39",
+      "name": "Week 1 2026-09-17T23:25:44.966Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1789687545027,
+      "modifiedAt": 1789687649227,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "974d47fc6d00ca3a8237e2f06a640ab15ab0f6b0abf28d712b991123f43a3e72",
+        "capturedAt": 1789687544966,
+        "byteLength": 13827237
+      }
+    },
+    "8f90ba91-07be-4843-a54e-aa33704440ac": {
+      "id": "8f90ba91-07be-4843-a54e-aa33704440ac",
+      "name": "Week 1 2026-09-17T23:36:03.734Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1789688163792,
+      "modifiedAt": 1789688175452,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "4eb3531a62f596e5b9349563952d20b500c6d162a5d49da483e1f80bf0f22cae",
+        "capturedAt": 1789688163734,
+        "byteLength": 13999696
+      }
+    },
+    "d026e056-712f-43a2-998b-560ea572652a": {
+      "id": "d026e056-712f-43a2-998b-560ea572652a",
+      "name": "Week 1 2026-09-17T23:51:50.669Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1789689110727,
+      "modifiedAt": 1789689439091,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "c8cfbd1f1fa3e988c090a9220ed284e8b5577956e64c2c29d20f3e20343bfec7",
+        "capturedAt": 1789689110669,
+        "byteLength": 14230666
+      }
+    },
+    "f4c24a0d-d461-44e0-80c9-453e4bfc5103": {
+      "id": "f4c24a0d-d461-44e0-80c9-453e4bfc5103",
+      "name": "Week 1 2026-09-22T01:14:17.779Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1790039657861,
+      "modifiedAt": 1793149659877,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "ad4c657dc0b0eb44c4028abb31fe41dbf7b9b82c900d64174ce8c16fe3ba52f6",
+        "capturedAt": 1790039657779,
+        "byteLength": 14732778
+      }
+    },
+    "8ffa213d-aa6e-4e2d-8e5d-26f62225a597": {
+      "id": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+      "name": "Week 1 practice",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "9b1cdada-2d04-4713-b09e-86ba372d6e02",
+      "tags": [],
+      "createdAt": 1793149638021,
+      "modifiedAt": 1793159002021
+    },
+    "115afb01-6205-438c-a761-0a03c3c828c8": {
+      "id": "115afb01-6205-438c-a761-0a03c3c828c8",
+      "name": "Week 1 practice 2026-10-28T01:07:32.137Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793149652186,
+      "modifiedAt": 1793149677577,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "eba39a98eb30c85b56eadae36a4ce4a2d69b76c49cc29626b6c0fbb4c9c3de2a",
+        "capturedAt": 1793149652137,
+        "byteLength": 29
+      }
+    },
+    "ccba8eb2-9d3c-431c-a464-ec2aa6a02cfd": {
+      "id": "ccba8eb2-9d3c-431c-a464-ec2aa6a02cfd",
+      "name": "Week 1 practice 2026-10-28T01:28:07.439Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793150887487,
+      "modifiedAt": 1793150917374,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "83f0bbeff05f159002957d614a683ddaf22cae19d39fcf6941216a9fee734dd1",
+        "capturedAt": 1793150887439,
+        "byteLength": 35690
+      }
+    },
+    "b356a8d4-0052-4c0a-9637-d600e0cf6319": {
+      "id": "b356a8d4-0052-4c0a-9637-d600e0cf6319",
+      "name": "Week 1 practice 2026-10-28T01:38:23.302Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793151503351,
+      "modifiedAt": 1793151547709,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "b312faed9dccb2f0d6e55fbd77ea981d0d2606d8e40f8de631d1ed4d6ab227f4",
+        "capturedAt": 1793151503302,
+        "byteLength": 428150
+      }
+    },
+    "b48565f6-8fb7-4095-b2a3-b88bbe0e0908": {
+      "id": "b48565f6-8fb7-4095-b2a3-b88bbe0e0908",
+      "name": "Week 1 2026-10-28T01:39:46.066Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793151586185,
+      "modifiedAt": 1793151632140,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "544a7f47-a308-4e97-9769-829e821d74cc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1",
+        "sourceRevision": "2e8af4f398157838200265e243c54a1c9fe02edde76e3941b75d8a82a15dc5d8",
+        "capturedAt": 1793151586066,
+        "byteLength": 14734920
+      }
+    },
+    "96ae4aa4-ec03-4c3e-898f-ae3a7e18127e": {
+      "id": "96ae4aa4-ec03-4c3e-898f-ae3a7e18127e",
+      "name": "Week 1 practice 2026-10-28T01:51:08.999Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793152269049,
+      "modifiedAt": 1793152297687,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "f766f246e061a8fdc39c1495f6c2fa8bc5312f69277c3da6671356f4239b43e9",
+        "capturedAt": 1793152268999,
+        "byteLength": 612535
+      }
+    },
+    "a2edc2c2-5cae-4aae-b4da-2fe58a7ce05f": {
+      "id": "a2edc2c2-5cae-4aae-b4da-2fe58a7ce05f",
+      "name": "Week 1 practice 2026-10-28T02:04:58.108Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793153098162,
+      "modifiedAt": 1793153137764,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "f14d21cd576098171746263a8d876b03f519be5561b183bd72d609c10068fa7c",
+        "capturedAt": 1793153098108,
+        "byteLength": 814116
+      }
+    },
+    "f9629e55-1a88-4960-a89a-5ec725b05b23": {
+      "id": "f9629e55-1a88-4960-a89a-5ec725b05b23",
+      "name": "Week 1 practice 2026-10-28T02:19:31.713Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793153971762,
+      "modifiedAt": 1793154097981,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "bdcea2d7e81a87d083846d81c20cd30fe97f4e7a6edd03ea0163447e0fc1a4d5",
+        "capturedAt": 1793153971713,
+        "byteLength": 945364
+      }
+    },
+    "ddbc052d-6f0a-4d53-89d5-2e16759b7cb3": {
+      "id": "ddbc052d-6f0a-4d53-89d5-2e16759b7cb3",
+      "name": "Week 1 practice 2026-10-28T02:29:32.302Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793154572352,
+      "modifiedAt": 1793154607943,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "40bb843bdc043fcda4cd1c0488c706b07ea81b9d41883d6841a154d1828129bf",
+        "capturedAt": 1793154572302,
+        "byteLength": 1237525
+      }
+    },
+    "3e43d100-3289-4535-86a9-48c4c3214a97": {
+      "id": "3e43d100-3289-4535-86a9-48c4c3214a97",
+      "name": "Week 1 practice 2026-10-28T03:34:05.715Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "ab1639cf-6f08-4935-a9b9-7ed437b4a766",
+      "tags": [],
+      "createdAt": 1793158445766,
+      "modifiedAt": 1793158492020,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "8ffa213d-aa6e-4e2d-8e5d-26f62225a597",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Week 1 practice",
+        "sourceRevision": "b8560e117b3dac3ca0d7486ad0ec2c6aaad5c87af1bc491cc88cec55df924b02",
+        "capturedAt": 1793158445715,
+        "byteLength": 1469149
+      }
+    }
+  },
+  "linksBySource": {},
+  "colors": {
+    "pen": [],
+    "highlighter": [],
+    "text": [],
+    "folder": []
+  },
+  "tagRegistry": [],
+  "penPresets": []
+}
